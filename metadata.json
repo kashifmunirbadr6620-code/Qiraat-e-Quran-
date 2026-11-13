@@ -1,0 +1,6 @@
+{
+  "name": "QiraatAsharah",
+  "description": "Quran reader with Qiraat Asharah (10 Qiraat & 20 Riwayat), side-by-side Hafs comparison, word-level difference explorer, bookmarks, and Qiraat differences editor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

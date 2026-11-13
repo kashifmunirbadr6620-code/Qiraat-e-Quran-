@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Subtle golden crescent at top -->
+    <path
+        android:fillColor="#FFE5C158"
+        android:pathData="M54,24 C49.5,24 46,27.5 46,32 C46,36.5 49.5,40 54,40 C56.6,40 58.9,38.8 60.4,36.9 C58.9,37.6 57.1,37.8 55.3,37.3 C52.4,36.5 50.6,33.5 51.4,30.6 C52.0,28.4 53.7,26.8 55.8,26.3 C55.2,24.8 54.6,24 54,24 Z" />
+    <!-- Open Quran left page -->
+    <path
+        android:fillColor="#FFFFF8EC"
+        android:pathData="M28,44 C35,41 44,41.5 52,46 L52,71 C44,67 35,66.5 28,69 Z" />
+    <!-- Open Quran right page -->
+    <path
+        android:fillColor="#FFFFF8EC"
+        android:pathData="M80,44 C73,41 64,41.5 56,46 L56,71 C64,67 73,66.5 80,69 Z" />
+    <!-- Spine / Rehal stand accent in gold -->
+    <path
+        android:fillColor="#FFE5C158"
+        android:pathData="M26,47 L26,72 C34,69.5 43,70 54,75.5 C65,70 74,69.5 82,72 L82,47 L79.5,47 L79.5,69.2 C72.5,67 64,67.5 54,72.4 C44,67.5 35.5,67 28.5,69.2 L28.5,47 Z" />
+    <!-- Decorative lines on pages -->
+    <path
+        android:fillColor="#FF0F5D4A"
+        android:pathData="M33,51 L47,52 L47,54 L33,53 Z M33,57 L47,58 L47,60 L33,59 Z M61,52 L75,51 L75,53 L61,54 Z M61,58 L75,57 L75,59 L61,60 Z" />
+    <!-- Rehal base legs -->
+    <path
+        android:fillColor="#FFE5C158"
+        android:pathData="M41,73 L34,82 L38.5,82 L45,74.5 Z M67,73 L74,82 L69.5,82 L63,74.5 Z" />
+</vector>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">QiraatAsharah</string>
+    <string name="tagline">پورا قرآن | 10 قراء | 20 روایات</string>
+    <string name="tab_surahs">سورتیں</string>
+    <string name="tab_reader">تلاوت</string>
+    <string name="tab_directory">قراء و بُک مارکس</string>
+    <string name="tab_editor">ایڈیٹر</string>
+    <string name="search_hint">سورہ یا قرآنی لفظ تلاش کریں…</string>
+    <string name="compare_hafs">موازنہ (حفص)</string>
+    <string name="offline_badge">آف لائن محفوظ</string>
+    <string name="qiraat_diff_title">اختلافِ قراءات</string>
+    <string name="bismillah">بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ</string>
+    <string name="continue_reading">تلاوت جاری رکھیں</string>
+    <string name="export_json">JSON ایکسپورٹ</string>
+</resources>

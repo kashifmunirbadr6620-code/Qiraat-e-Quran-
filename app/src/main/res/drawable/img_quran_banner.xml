@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="360dp"
+    android:height="180dp"
+    android:viewportWidth="360"
+    android:viewportHeight="180">
+
+    <!-- Deep Emerald Manuscript Gradient Base -->
+    <path android:pathData="M0,0h360v180h-360z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:endX="360"
+                android:endY="180"
+                android:startX="0"
+                android:startY="0"
+                android:type="linear">
+                <item android:color="#FF07362A" android:offset="0.0" />
+                <item android:color="#FF0F5D4A" android:offset="0.55" />
+                <item android:color="#FF167B62" android:offset="1.0" />
+            </gradient>
+        </aapt:attr>
+    </path>
+
+    <!-- Subtle Golden Archways -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M18,180 L18,74 C18,44 46,24 72,18 C98,24 126,44 126,74 L126,180"
+        android:strokeAlpha="0.22"
+        android:strokeColor="#FFE5C158"
+        android:strokeWidth="1.5" />
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M126,180 L126,74 C126,44 154,24 180,18 C206,24 234,44 234,74 L234,180"
+        android:strokeAlpha="0.28"
+        android:strokeColor="#FFE5C158"
+        android:strokeWidth="1.5" />
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M234,180 L234,74 C234,44 262,24 288,18 C314,24 342,44 342,74 L342,180"
+        android:strokeAlpha="0.22"
+        android:strokeColor="#FFE5C158"
+        android:strokeWidth="1.5" />
+
+    <!-- Rub el Hizb 8-Pointed Geometric Star (Left) -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M48,66 L96,66 L96,114 L48,114 Z"
+        android:strokeAlpha="0.26"
+        android:strokeColor="#FFE5C158"
+        android:strokeWidth="1.5" />
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M72,56 L106,90 L72,124 L38,90 Z"
+        android:strokeAlpha="0.26"
+        android:strokeColor="#FFE5C158"
+        android:strokeWidth="1.5" />
+
+    <!-- Rub el Hizb 8-Pointed Geometric Star (Center) -->
+    <path
+        android:fillColor="#14E5C158"
+        android:pathData="M154,64 L206,64 L206,116 L154,116 Z"
+        android:strokeAlpha="0.32"
+        android:strokeColor="#FFE5C158"
+        android:strokeWidth="1.5" />
+    <path
+        android:fillColor="#14E5C158"
+        android:pathData="M180,53 L217,90 L180,127 L143,90 Z"
+        android:strokeAlpha="0.32"
+        android:strokeColor="#FFE5C158"
+        android:strokeWidth="1.5" />
+
+    <!-- Rub el Hizb 8-Pointed Geometric Star (Right) -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M264,66 L312,66 L312,114 L264,114 Z"
+        android:strokeAlpha="0.26"
+        android:strokeColor="#FFE5C158"
+        android:strokeWidth="1.5" />
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M288,56 L322,90 L288,124 L254,90 Z"
+        android:strokeAlpha="0.26"
+        android:strokeColor="#FFE5C158"
+        android:strokeWidth="1.5" />
+
+    <!-- Delicate Border Frame -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M8,8 L352,8 L352,172 L8,172 Z"
+        android:strokeAlpha="0.3"
+        android:strokeColor="#FFE5C158"
+        android:strokeWidth="1" />
+</vector>
